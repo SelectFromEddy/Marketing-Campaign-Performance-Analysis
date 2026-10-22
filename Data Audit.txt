@@ -1,0 +1,8 @@
+Data Quality Audit
+
+- Reviewed 10,000 campaign records.
+- Checked for missing values in spend, revenue, clicks, and conversions.
+- Validated date range.
+- Searched for duplicate campaign IDs.
+- Reviewed platform and campaign objective categories.
+- Verified calculated metrics against source data.

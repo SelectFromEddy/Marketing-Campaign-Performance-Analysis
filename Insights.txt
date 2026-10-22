@@ -1,0 +1,108 @@
+KEY FINDINGS
+
+PROJECT:
+Marketing Campaign Performance Analysis
+
+BUSINESS QUESTION:
+
+How should advertising budget be allocated across
+platforms and campaign objectives to maximize profit
+and improve marketing efficiency?
+
+--------------------------------------------------
+FINDING 1: OVERALL MARKETING PERFORMANCE
+--------------------------------------------------
+
+The company generated approximately $240.7M in
+profit from $43.46M in advertising spend.
+
+Marketing campaigns achieved an average ROAS of
+7.52x, meaning each dollar spent on advertising
+generated over $7 in revenue on average.
+
+With more than 655K conversions generated, the
+results suggest that the overall marketing strategy
+was effective and produced strong business outcomes.
+
+--------------------------------------------------
+FINDING 2: PLATFORM PERFORMANCE
+--------------------------------------------------
+
+Google Ads was the highest-performing platform,
+generating approximately $80M in profit and
+contributing about 33% of total profit.
+
+Google Ads and Facebook combined generated nearly
+60% of all profit, making them the strongest
+contributors to overall marketing performance.
+
+These results suggest that both platforms play a
+major role in driving profitability and should
+remain key areas of focus for future investment.
+
+--------------------------------------------------
+FINDING 3: CAMPAIGN OBJECTIVE PERFORMANCE
+--------------------------------------------------
+
+Conversion campaigns achieved the highest average
+ROAS at 9.20x.
+
+Compared to Brand Awareness campaigns, Conversion
+campaigns produced approximately 2.3 times greater
+return on advertising spend.
+
+This suggests that campaigns focused on conversions
+deliver the strongest financial returns and may
+offer the best opportunity for future budget growth.
+
+--------------------------------------------------
+FINDING 4: CUSTOMER ACQUISITION EFFICIENCY
+--------------------------------------------------
+
+Facebook achieved the lowest average CPA at
+approximately $118 per acquisition while also
+generating the second-highest profit at $64M.
+
+In comparison, LinkedIn produced the highest CPA
+at approximately $379 per acquisition while
+generating only $23M in profit.
+
+These results suggest that Facebook provides a
+strong balance between profitability and customer
+acquisition efficiency.
+
+--------------------------------------------------
+FINDING 5: BUDGET ALLOCATION OPPORTUNITY
+--------------------------------------------------
+
+The analysis identified three key strengths:
+
+- Google Ads generated the highest total profit.
+- Conversion campaigns produced the strongest ROAS.
+- Facebook achieved the lowest CPA.
+
+Together, these findings indicate that future
+budget allocation decisions should prioritize
+high-profit platforms and campaign objectives while
+continuing to monitor acquisition efficiency.
+
+--------------------------------------------------
+RECOMMENDATION
+--------------------------------------------------
+
+Based on the analysis, future advertising budgets
+should prioritize Google Ads and Conversion-focused
+campaigns because they consistently produced the
+strongest financial results.
+
+Facebook should continue to be used as a cost-
+efficient customer acquisition channel due to its
+combination of strong profitability and low CPA.
+
+Lower-performing platforms and campaign objectives
+should be reviewed for optimization opportunities
+before receiving additional budget.
+
+Overall, marketing investments should focus on
+initiatives that demonstrate strong profitability,
+high ROAS, and efficient customer acquisition costs.
